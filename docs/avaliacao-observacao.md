@@ -23,4 +23,13 @@ O processo inclui quatro atividades principais:
 
 ## Método de Avaliação de Comunicabilidade
 
+O **método de avaliação de comunicabilidade** (MAC) de um sistema é baseado na teoria da engenharia semiótica. Ao contrário do método de inspeção semiótica (MIS), o foco são os usuários, isto é, nas pessoas que recebem a mensagem.
+
+Normalmente, este método é realizado com um grupo pequeno de participantes---entre cinco e 10 pessoas. O processo também inclui quatro etapas principais: preparação, coleta de dados, interpretação e consolidação dos resultados, e relato. 
+
+Além das tarefas comumente realizadas em outros testes (isto é, definição das tarefas, perfis, preparação dos materiais, e execução do teste piloto), a preparação para MAC também inclui a identificação dos signos. 
+Durante a coleta dos dados, é sugerido a gravação de vídeo dos participantes,  que são usados nas etapas seguintes para analisar  as interações, perfis, e identificar rupturas na comunicação. 
+
+Os avaliadores podem usar um conjunto de **13 etiquetas** para interpretar os resultados. Por exemplo, se um usuário não descobriu como realizar uma ação na interface, associamos com a etiqueta *"Cadê?"*. Podemos utilizar a etiqueta *"E agora?"* se o usuário não entendeu qual é o processo para concluir uma tarefa. Se o sistema mostrou um resultado diferente do esperado usamos a etiqueta *"Por que não funciona?"*. Na etapa final, os avaliadores podem verificar, por exemplo, a frequência de cada etiqueta e níveis dos problemas.
+
 ## Prototipação em Papel
