@@ -5,9 +5,25 @@ Em métodos de observação, analisamos os usuários durante a execução de tar
 
 ## Teste de Usabilidade
 
-Usabilidade define a facilidade para utilizar e compreender uma interface durante o uso. Logo, um **teste de usabilidade** foca na experiência de uso dos usuários. Este tipo de teste pode ser realizado em um ambiente controlado, como por exemplo, um laboratório.  
+> *"Usability testing is never a waste of time, even if you think you know the answer."*  --- Hoa Loranger
 
-O processo inclui quatro atividades principais: 
+Usabilidade define a facilidade para utilizar e compreender uma interface durante o uso. Logo, um **teste de usabilidade** foca na experiência de uso dos usuários. Em alguns cenários, este tipo de teste parece desnecessário, já que temos a impressão de que podemos "prever o resultado". Entretanto, este método oferece diversos benefícios. Podemos identificar problemas de *design* do produto ou serviço, descobrir oportunidades de melhoria, e claro, compreender o comportamento e preferências do usuário.
+
+[Hoa Loranger](https://www.nngroup.com/articles/test-when-you-know-answer/), por exemplo, sugere uma lista de razões para realizar testes de usabilidade. Dentre os tópicos, a especialista UX menciona a possibilidade de uma interpretação errada.  Até mesmo os profissionais experientes podem cometer erros, por exemplo,  prevendo de forma incorreta como os usuários responderão a uma interface.
+
+Os três elementos principais deste método são:
+
+* **Facilitador**: É a pessoa responsável por gerenciar o teste de usabilidade, observando o comportamento do participante, coletando *feedbacks*, e fazendo perguntas se for necessário. Além disso, ele orienta o participante, explicando as tarefas e esclarecendo dúvidas.
+
+* **Participante**: Idealmente, o participante deveria representar um "usuário realista" do seu produto ou serviço. Se isso não for possível, convide pessoas com um perfil parecido, isto é, participantes com as mesmas necessidades. Você pode pedir ao participante para "pensar em voz alta", isto é, narrar as suas ações e raciocínios. Esta tática pode te ajudar a entender melhor as motivações e dúvidas durante o uso do sistema.
+
+* **Tarefas**: As tarefas devem ser realistas, ou seja, atividades que os usuários poderiam realizar no mundo real. Elas podem ter escopo aberto ou fechado conforme os objetos da avaliação. Exemplos de tarefas:
+
+    > *A sua impressora está mostrando "Erro 5011". Como você pode eliminar esta mensagem de erro?* 
+
+    > *Você foi informado de que precisa falar com Alice do departamento de TI da empresa. Use a intranet para descobrir onde o departamento está localizado. Dê a sua resposta para o avaliador.*
+
+Este tipo de teste pode ser realizado em um ambiente controlado, como por exemplo, um laboratório. O processo inclui quatro atividades principais: 
 
 * **Preparação**: Nesta etapa, definimos as tarefas e perfis dos participantes do teste. Além disso, preparamos os materiais e executamos o teste piloto.
 
@@ -25,6 +41,9 @@ O processo inclui quatro atividades principais:
 
 [Usability Test, Even When You Know the Answer
 ](https://www.nngroup.com/articles/test-when-you-know-answer). Nielsen Norman Group. Hoa Loranger, Janeiro, 2018. 
+
+[Usability Testing 101
+](https://www.nngroup.com/articles/usability-testing-101). Nielsen Norman Group. Kate Moran, Dezembro, 2019.
 
 
 ## Método de Avaliação de Comunicabilidade
