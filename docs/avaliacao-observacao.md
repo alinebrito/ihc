@@ -34,9 +34,26 @@ O **método de avaliação de comunicabilidade** (MAC) de um sistema é baseado 
 Normalmente, este método é realizado com um grupo pequeno de participantes---entre cinco e dez pessoas. O processo também inclui quatro etapas principais: preparação, coleta de dados, interpretação e consolidação dos resultados, e relato. 
 
 Além das tarefas comumente realizadas em outros testes (isto é, definição das tarefas, perfis, preparação dos materiais, e execução do teste piloto), a preparação para MAC também inclui a identificação dos signos. 
-Durante a coleta dos dados, é sugerido a gravação de vídeo dos participantes,  que são usados nas etapas seguintes para analisar  as interações, perfis, e identificar rupturas na comunicação. 
+Durante a coleta dos dados, é sugerido a gravação de vídeo dos participantes,  que são usados nas etapas seguintes para analisar  as interações, perfis, e identificar rupturas na comunicação. Os avaliadores podem usar um conjunto de **13 etiquetas** para interpretar os resultados, como por exemplo, as três etiquetas mostradas nas figuras abaixo---*"Cadê"*, *"E agora"*, *"Por que não funciona"*. Na etapa final, os avaliadores podem verificar, por exemplo, a frequência de cada etiqueta e níveis dos problemas.
 
-Os avaliadores podem usar um conjunto de **13 etiquetas** para interpretar os resultados. Por exemplo, se um usuário não descobriu como realizar uma ação na interface, associamos com a etiqueta *"Cadê?"*. Podemos utilizar a etiqueta *"E agora?"* se o usuário não entendeu qual é o processo para concluir uma tarefa. Se o sistema mostrou um resultado diferente do esperado usamos a etiqueta *"Por que não funciona?"*. Na etapa final, os avaliadores podem verificar, por exemplo, a frequência de cada etiqueta e níveis dos problemas.
+<img src="img/etiquetas_mac_cade.png" width="160" style="">
+
+*Se um usuário não descobriu como realizar uma ação na interface, associamos com a etiqueta "Cadê?"*
+
+<p style="margin: 20px"></p>
+
+<img src="img/etiquetas_mac_eagora.png" width="160" style="">
+
+*Podemos utilizar a etiqueta "E agora?" se o usuário não entendeu qual é o processo para concluir uma tarefa*
+
+<p style="margin: 20px"></p>
+
+<img src="img/etiquetas_mac_pq_nao_funciona.png" width="160" style="">
+
+*Se o sistema mostrou um resultado diferente do esperado usamos a etiqueta "Por que não funciona?"*
+
+<p style="margin: 20px"></p>
+
 
 ### Referências
 
@@ -50,4 +67,3 @@ Os avaliadores podem usar um conjunto de **13 etiquetas** para interpretar os re
 
 [Test Paper Prototypes to Save Time and Money: The Mozilla Case Study
 ](https://www.nngroup.com/articles/mozilla-paper-prototype). Nielsen Norman Group. Susan Farrell, Agosto, 2015. 
-
