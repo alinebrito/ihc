@@ -3,11 +3,14 @@ Um resumo sobre conceitos, diretrizes, recomendações, métodos, e boas prátic
 
 (Em construção ...)
 
+[Identificando as necessidades dos usuários](docs/necessidades-usuarios.md):
+* Persona
 
-1. [Protótipos & Wireframes](docs/prototipos.md)
 
 
-2. [Avaliação de IHC através de Observação](docs/avaliacao-observacao.md):
+[Protótipos & Wireframes](docs/prototipos.md)
+
+[Avaliação de IHC através de Observação](docs/avaliacao-observacao.md):
 
 * Teste de Usabilidade
 * Método de Avaliação de Comunicabilidade
