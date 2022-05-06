@@ -48,6 +48,10 @@ Não precisamos documentar todos os aspectos deste personagem imaginário.
 O objetivo é nos concentramos nas características que impactam no projeto do sistema. Dessa forma, podemos ter, por exemplo, várias personas numa empresa. 
 Algumas personas podem representar o público principal do sistema.
 
+## Perguntas Importantes
+
+**Quando criar personas?** Devemos criar personas o mais cedo possível, baseando-se em pesquisas de usuários. Personas são inventadas, mas nós nos inspiramos em pessoas do mundo real. Conforme mencionado pela [especialista UX  Aurora Harley](https://www.nngroup.com/articles/persona/), se você está projetando o sistema para alguém que não existe, provavelmente você não terá clientes.
+
 ## Referências
 
 [Design de Interação: Além da Interação Humano-Computador](https://www.amazon.com.br/Design-Intera%C3%A7%C3%A3o-Al%C3%A9m-Humano-Computador/dp/8582600062/ref=asc_df_8582600062/). 
